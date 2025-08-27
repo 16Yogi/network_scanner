@@ -1,0 +1,11 @@
+.work-area{
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    overflow: scroll;
+    background-color: rgb(235, 233, 231);
+}
+button{
+    outline:  none;
+    border: none;
+    font-weight: 500;
+}

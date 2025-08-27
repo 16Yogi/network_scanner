@@ -1,0 +1,6 @@
+---
+device1:
+    hostname: 192.168.137.1
+    groups:
+        - device_discovered
+
